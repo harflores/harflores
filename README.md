@@ -12,7 +12,6 @@
 ### Ingeniero Informático | Desarrollador Full Stack | Flutter | Java Spring Boot | APIs REST | Integración de Sistemas
 
 📍 Curicó, Chile
-📱 +56 9 5432 7187
 📧 [harflores.cl@gmail.com](mailto:harflores.cl@gmail.com)
 🔗 LinkedIn: https://linkedin.com/in/harflores
 💻 GitHub: https://github.com/harflores
