@@ -1,273 +1,248 @@
-![Java](https://img.shields.io/badge/Java-Spring_Boot-orange)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-yellow)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue)
-![n8n](https://img.shields.io/badge/n8n-Automation-red)
-![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)
+# 👨‍💻 Harold Julio Flores Suazo
 
-# 👨‍💻 HAROLD JULIO FLORES SUAZO
+### Ingeniero Informático | Full Stack Developer | Odoo ERP | Java Spring Boot | Flutter | Automatización
 
-### Ingeniero Informático | Desarrollador Full Stack | Flutter | Java Spring Boot | APIs REST | Integración de Sistemas
+[![Java](https://img.shields.io/badge/Java-Spring%20Boot-orange)](https://spring.io/)
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)](https://flutter.dev/)
+[![Python](https://img.shields.io/badge/Python-Odoo-yellow)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue)](https://www.mysql.com/)
+[![n8n](https://img.shields.io/badge/n8n-Automation-red)](https://n8n.io/)
+[![Odoo](https://img.shields.io/badge/Odoo-ERP-purple)](https://www.odoo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Containers-blue)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
 
-📍 Curicó, Chile
-📧 [harflores.cl@gmail.com](mailto:harflores.cl@gmail.com)
-🔗 LinkedIn: https://linkedin.com/in/harflores
-💻 GitHub: https://github.com/harflores
-
----
-
-## 👨‍🎓 PERFIL PROFESIONAL
-
-Ingeniero Informático con experiencia en desarrollo Full Stack, aplicaciones móviles, APIs REST, integración de sistemas, automatización de procesos, bases de datos, e-commerce y soporte tecnológico. He trabajado en entornos públicos y privados desarrollando soluciones con Flutter, Java Spring Boot, PHP, JavaScript, TypeScript, SQL, MySQL, PostgreSQL, WordPress, WooCommerce, Prestashop, n8n y Odoo.
-
-Mi foco está en construir soluciones que conecten sistemas, reduzcan trabajo manual, mejoren la continuidad operativa y entreguen información útil para la toma de decisiones. Cuento con experiencia en modernización de aplicaciones, integración backend-frontend, reportería, automatización comercial, soporte a usuarios y mejora continua de plataformas digitales.
+📍 Curicó, Chile  
+📧 [harflores.cl@gmail.com](mailto:harflores.cl@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/harflores)  
+💻 [GitHub](https://github.com/harflores)  
+🌐 [Portafolio](https://harflores.github.io/)
 
 ---
 
-## 🚀 RESUMEN DE IMPACTO
+## 👨‍💻 Perfil profesional
 
-✅ Desarrollé y mantuve aplicaciones móviles, plataformas web y APIs REST para sistemas internos, proyectos institucionales y soluciones comerciales.
+Soy Ingeniero Informático con experiencia en desarrollo Full Stack, personalización de ERP Odoo, aplicaciones móviles, APIs REST, integración de sistemas, automatización de procesos y soporte tecnológico.
 
-✅ Automaticé procesos operativos y comerciales mediante n8n, webhooks, APIs REST y bots de Telegram, reduciendo tareas manuales y mejorando la disponibilidad de información.
+Actualmente trabajo como Ingeniero Informático y Desarrollador Web y de Sistemas en Danich, participando en la evolución de procesos empresariales mediante addons para Odoo, APIs con Java Spring Boot, aplicaciones Flutter, automatizaciones con n8n e integraciones con servicios internos y externos.
 
-✅ Integré sistemas internos, plataformas móviles, sitios web, ERP Odoo, pasarelas de pago y herramientas de reportería.
+También tengo experiencia en instituciones públicas y privadas, desarrollando soluciones para captura de datos, reportería, comercio electrónico y gestión operativa.
 
-✅ Participé en la modernización de aplicaciones críticas, migrando soluciones desde tecnologías anteriores hacia arquitecturas más escalables.
-
-✅ Resolví incidencias técnicas, documenté procesos, capacité usuarios y aseguré continuidad operativa en entornos de alta demanda.
+Me interesa construir soluciones mantenibles que conecten sistemas, reduzcan tareas manuales y mejoren la disponibilidad de información para las personas y áreas que la utilizan.
 
 ---
 
-## 🛠️ COMPETENCIAS CLAVE
+## 🚀 Áreas de experiencia
 
-### 💻 Desarrollo
-
-* Java
-* Spring Boot
-* PHP
-* JavaScript
-* TypeScript
-* C#
-* Angular
-* React
-* Flutter
-* Ionic
-
-### 🔗 Backend e Integración
-
-* APIs REST
-* Webhooks
-* Servicios internos
-* Integración Backend-Frontend
-* JSON
-* Consumo de APIs
-
-### 🗄️ Bases de Datos
-
-* SQL
-* MySQL
-* PostgreSQL
-* Consultas
-* Modelado
-* Reportería
-* Optimización básica
-
-### 🛒 E-commerce y Web
-
-* WordPress
-* WooCommerce
-* Prestashop
-* Checkout
-* Carritos de compra
-* SEO
-* Rendimiento Web
-* UX
-
-### 🤖 Automatización
-
-* n8n
-* Bots de Telegram
-* Flujos operativos
-* Notificaciones
-* Captura de Leads
-* Consultas de Stock
-
-### 🏢 ERP y Plataformas
-
-* Odoo
-* Integración de procesos
-* Continuidad operacional
-* Soporte a usuarios
-
-### ⚙️ Herramientas
-
-* Git
-* GitLab
-* Docker
-* AWS
-* Scrum
-* Documentación técnica
-* Gestión de incidencias
+- Desarrollo de addons y personalizaciones para Odoo.
+- Desarrollo de APIs REST con Java y Spring Boot.
+- Desarrollo de aplicaciones móviles con Flutter.
+- Integración de sistemas mediante APIs, JSON, webhooks y servicios internos.
+- Automatización de procesos con n8n y bots de Telegram.
+- Desarrollo de plataformas web y soluciones e-commerce.
+- Gestión de bases de datos PostgreSQL y MySQL.
+- Pruebas funcionales, soporte, documentación y mejora continua.
+- Implementación de herramientas de IA para desarrollo y productividad.
+- Levantamiento de requerimientos con usuarios y áreas de negocio.
 
 ---
 
-# 💼 EXPERIENCIA PROFESIONAL
+## 🛠️ Tecnologías y herramientas
 
-## 🏢 DANICH — Chile
+### Lenguajes y frameworks
 
-### Ingeniero Informático / Desarrollador Web y Sistemas
+- Java
+- Spring Boot
+- Python
+- PHP
+- JavaScript
+- TypeScript
+- C#
+- Angular
+- React
+- Flutter
+- Ionic
 
-📅 10/2024 – Actualidad
+### Odoo ERP
 
-* Desarrollé aplicaciones móviles Android para teléfonos, tablets y TV, mejorando [cobertura de dispositivos / experiencia de uso / disponibilidad operativa], mediante el desarrollo de interfaces en Flutter y consumo de servicios internos.
-* Diseñé, desarrollé y mantuve APIs REST con Java Spring Boot, permitiendo la integración entre sistemas internos y aplicaciones móviles, medido por [cantidad de servicios / módulos conectados / reducción de errores], mediante endpoints estructurados, validaciones y conexión con bases de datos.
-* Automaticé flujos operativos y comerciales, reduciendo [tiempo manual / tareas repetitivas / dependencia operativa] en [porcentaje o cantidad], mediante n8n, webhooks, APIs REST y bots de Telegram.
-* Implementé soluciones internas de reportería comercial y gestión de proyectos, mejorando [visibilidad de información / velocidad de consulta / seguimiento de indicadores], mediante consultas SQL, integración de datos y visualización de información operativa.
-* Participé en la implementación e integración de ERP Odoo, asegurando continuidad de procesos de negocio y comunicación entre plataformas, medido por [procesos integrados / áreas usuarias / reducción de reprocesos].
-* Mantuve y optimicé plataformas web, mejorando [rendimiento / SEO / experiencia de usuario / estabilidad], mediante corrección de bugs, ajustes frontend-backend y mejoras de navegación.
-* Integré soluciones e-commerce con WordPress, WooCommerce, Prestashop, Transbank y MercadoPago, mejorando la continuidad de compra y operación comercial mediante validación de flujos, corrección de incidencias y conexión con APIs.
+- Desarrollo de addons personalizados
+- Python y ORM
+- XML y vistas
+- JavaScript / OWL
+- QWeb
+- Modelos y reglas de negocio
+- Seguridad y ACL
+- Reportes
+- PostgreSQL
+- Pruebas funcionales y técnicas
 
-### 🏆 Logros destacados
+### Backend e integración
 
-* Logré mejorar la gestión comercial y operativa, medido por [menor tiempo de consulta / mayor disponibilidad de información / menos tareas manuales], mediante automatización de procesos, reportería e integración de sistemas.
-* Logré conectar plataformas móviles, web, ERP y herramientas de automatización, medido por [cantidad de integraciones / flujos implementados / usuarios beneficiados], mediante APIs REST, webhooks y servicios internos.
+- APIs REST
+- JSON
+- Webhooks
+- Integración backend-frontend
+- Consumo y exposición de servicios
+- Validaciones y lógica de negocio
+- Integración con ERP y plataformas externas
 
----
+### Bases de datos
 
-## 🏛️ Instituto Nacional de Estadísticas de Chile — Chile
+- PostgreSQL
+- MySQL
+- SQL
+- Consultas y reportes
+- Modelado de datos
+- Integración con aplicaciones
 
-### Gestor de Soporte Informático — Censo 2024
+### Automatización e inteligencia artificial
 
-📅 01/2024 – 06/2024
+- n8n
+- Bots de Telegram
+- Automatización mediante APIs y webhooks
+- Claude Teams
+- GitHub Copilot
+- MCP
+- Documentación y políticas de uso seguro de IA
 
-* Aseguré continuidad operativa de equipos tecnológicos regionales durante el Censo 2024.
-* Gestioné configuración, mantención e inventario de dispositivos móviles, computadores e impresoras.
-* Capacité a equipos de terreno en el uso de herramientas tecnológicas.
-* Resolví incidencias bajo presión en un proyecto nacional de alta demanda.
-* Documenté requerimientos, equipamiento y casos de soporte.
+### Plataformas y prácticas
 
-### 🏆 Logros destacados
+- Git
+- GitLab
+- GitHub
+- Docker
+- AWS
+- Kubernetes
+- Scrum
+- Documentación técnica
+- Gestión de incidencias
 
-* Fortalecí la continuidad tecnológica del operativo regional.
-* Mantuve trazabilidad de equipamiento y requerimientos críticos.
+### Web y e-commerce
 
----
-
-## 🌾 Oficina de Estudios y Políticas Agrarias (ODEPA)
-
-### Analista de Diseño y Desarrollo de Sistemas
-
-📅 10/2022 – 02/2024
-
-* Migré y modernicé una aplicación móvil institucional desde Ionic a Flutter.
-* Desarrollé, mantuve y optimicé APIs REST con Java Spring.
-* Mejoré la integración backend-frontend de sistemas institucionales.
-* Participé en despliegues, pruebas y soporte tecnológico.
-* Apoyé la mejora continua de sistemas de captura de datos y reportería pública.
-
-### 🏆 Logros destacados
-
-* Mejoré la escalabilidad e interoperabilidad de una aplicación institucional crítica.
-* Fortalecí la continuidad de servicios institucionales.
-
----
-
-## 📞 Claro Chile S.A. — Curicó
-
-### Ejecutivo de Servicio y Atención al Cliente
-
-📅 01/2019 – 10/2022
-
-* Resolví requerimientos técnicos y comerciales de clientes.
-* Gestioné casos hasta su resolución.
-* Capacité internamente sobre actualizaciones de políticas y procedimientos.
-* Desarrollé habilidades de comunicación, análisis de problemas y gestión bajo presión.
-
-### 🏆 Logros destacados
-
-* Mantuve cumplimiento de indicadores KPI/SLA.
-* Fortalecí competencias transferibles al área tecnológica.
-
----
-
-# 🔬 PROYECTOS Y EXPERIENCIA TÉCNICA COMPLEMENTARIA
-
-## 🛒 Plataformas E-commerce — Prestashop, WordPress y WooCommerce
-
-* Implementé y mantuve plataformas e-commerce.
-* Integré pasarelas de pago como Transbank y MercadoPago.
-* Consumí e integré APIs REST para automatizar cotizaciones, consultas de stock, pedidos pendientes y captura de leads.
-
-## 🤖 Automatización Comercial — n8n, Telegram Bots y APIs
-
-* Diseñé flujos con n8n para automatizar consultas y notificaciones comerciales.
-* Automaticé consultas de stock, pedidos pendientes, mensajes de usuarios y captura de leads.
-* Implementé mejoras frontend y backend orientadas a usabilidad, rendimiento y mantenimiento.
+- WordPress
+- WooCommerce
+- Prestashop
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Integración con Transbank y MercadoPago
+- Optimización de rendimiento y SEO
 
 ---
 
-# 🎓 FORMACIÓN
+## 💼 Experiencia profesional
 
-## 🏫 AIEP
+### Danich — Chile
 
-**Ingeniería Informática**
-📅 01/2017 – 01/2022
+**Ingeniero Informático / Desarrollador Web y de Sistemas**  
+`Octubre 2024 - Actualidad`
 
----
+- Analizo requerimientos de distintas áreas y los transformo en soluciones funcionales y técnicas.
+- Desarrollo y mantengo addons personalizados para Odoo utilizando Python, ORM, XML y JavaScript/OWL.
+- Extiendo modelos, vistas, permisos, reglas de negocio, flujos y reportes de Odoo.
+- Realizo pruebas funcionales y técnicas en ambientes de desarrollo antes del despliegue.
+- Participo en la gestión de mejoras mediante Scrum, incluyendo levantamiento, backlog, planificación, desarrollo y validación con usuarios.
+- Diseño, desarrollo y mantengo APIs REST con Java Spring Boot.
+- Integro sistemas internos, aplicaciones móviles, bases de datos y servicios empresariales.
+- Desarrollo aplicaciones móviles Android con Flutter para teléfonos, tablets y TV.
+- Diseño automatizaciones operativas y comerciales con n8n, webhooks, APIs REST y bots.
+- Administro usuarios, permisos, licencias y servicios SaaS utilizados por la organización.
+- Implemento y coordino el uso de Claude Teams y GitHub Copilot para apoyar el desarrollo y la productividad.
+- Elaboro políticas y lineamientos para el uso seguro de herramientas de inteligencia artificial.
+- Mantengo y optimizo plataformas web y e-commerce con WordPress, WooCommerce y Prestashop.
+- Documento cambios, resuelvo incidencias y apoyo la continuidad operativa de las plataformas.
 
-# 📜 CERTIFICACIONES Y FORMACIÓN COMPLEMENTARIA
+### Instituto Nacional de Estadísticas de Chile
 
-## ☁️ Bootcamp Adalid
+**Gestor de Soporte Informático — Censo 2024**  
+`Enero 2024 - Junio 2024`
 
-Arquitectura de Sistemas, Cloud, AWS, Docker, Kubernetes
-📅 07/2024 – 09/2024
+- Aseguré la continuidad operativa de equipos tecnológicos regionales durante el Censo 2024.
+- Gestioné la configuración, mantención e inventario de dispositivos móviles, computadores e impresoras.
+- Resolví incidencias y realicé seguimiento de casos técnicos.
+- Capacité a equipos de terreno en el uso de herramientas tecnológicas.
+- Documenté requerimientos, equipamiento e incidencias para mantener trazabilidad.
 
-## 📋 Coursera — Google
+### Oficina de Estudios y Políticas Agrarias — ODEPA
 
-Gestión de Proyectos: Agile, Scrum, stakeholders, documentación y comunicación estratégica
-📅 07/2024 – Actualidad
+**Analista de Diseño y Desarrollo de Sistemas**  
+`Octubre 2022 - Febrero 2024`
 
-## 🗄️ Desafío Latam
+- Migré y modernicé una aplicación móvil institucional desde Ionic hacia Flutter.
+- Desarrollé, mantuve y optimicé APIs REST con Java Spring.
+- Mejoré la integración entre frontend, backend y servicios institucionales.
+- Participé en despliegues, pruebas, soporte y documentación técnica.
+- Apoyé sistemas de captura de datos y reportería pública.
 
-SQL Interactivo
-📅 12/2023
+### Claro Chile S.A. — Curicó
 
-## 📱 Udemy
+**Ejecutivo de Servicio y Atención al Cliente**  
+`Enero 2019 - Octubre 2022`
 
-Flutter: Guía completa para iOS y Android
-📅 05/2023
-
-## 🤖 Devtalles
-
-n8n + MCP: Automatización y agentes de IA inteligentes
-
----
-
-# 🌎 IDIOMAS
-
-🇺🇸 Inglés Técnico
-
----
-
-## 📫 CONTACTO
-
-📧 **[harflores.cl@gmail.com](mailto:harflores.cl@gmail.com)**
-💼 **LinkedIn:** https://linkedin.com/in/harflores
-💻 **GitHub:** https://github.com/harflores
-
-> "La tecnología genera valor cuando resuelve problemas reales."
-
-## 🚀 Tecnologías
-
-Java • Spring Boot • Flutter • Angular • React • PHP • TypeScript • PostgreSQL • MySQL • AWS • Docker • Git • n8n • Odoo • WordPress • Prestashop
-
-## 📂 Enlaces  
-- 🌐 [Portafolio Personal](https://harflores.github.io/)  
-- 💼 [LinkedIn](https://linkedin.com/in/harflores)  
-- 📧 [Email](mailto:harflores.cl@gmail.com)  
+- Resolví requerimientos técnicos y comerciales de clientes.
+- Gestioné casos hasta su resolución, cumpliendo indicadores de atención y SLA.
+- Capacité internamente sobre procedimientos, políticas y mejoras de servicio.
+- Desarrollé habilidades de comunicación, análisis y resolución de problemas.
 
 ---
 
-💡 **Mi lema:** *"El aprendizaje constante y la innovación son las claves para transformar ideas en realidad."*  
+## 🔬 Proyectos y experiencia complementaria
+
+### Automatización comercial
+
+- Diseñé flujos con n8n para automatizar consultas, notificaciones y procesos comerciales.
+- Integré APIs REST, webhooks y bots de Telegram.
+- Automaticé consultas de stock, pedidos pendientes, captura de leads y comunicación con usuarios.
+
+### Plataformas e-commerce
+
+- Implementé y mantuve plataformas WordPress, WooCommerce y Prestashop.
+- Integré Transbank y MercadoPago.
+- Consumí APIs REST para cotizaciones, stock, pedidos y captura de información.
+- Corregí errores y realicé mejoras de rendimiento, navegación y experiencia de usuario.
+
+### Aplicaciones móviles
+
+- Desarrollo de aplicaciones Android con Flutter.
+- Integración con APIs REST y servicios internos.
+- Migración de aplicaciones desde Ionic a Flutter.
+- Adaptación para teléfonos, tablets y televisores.
+
+---
+
+## 🎓 Formación
+
+### AIEP
+
+**Ingeniería Informática**  
+`2017 - 2022`
+
+---
+
+## 📜 Formación complementaria
+
+- **Bootcamp Adalid:** Arquitectura de Sistemas, Cloud, AWS, Docker y Kubernetes.
+- **Coursera / Google:** Gestión de proyectos, Agile, Scrum, stakeholders y documentación.
+- **Desafío Latam:** SQL Interactivo.
+- **Udemy:** Flutter para iOS y Android.
+- **Devtalles:** n8n, MCP, automatización y agentes de inteligencia artificial.
+
+---
+
+## 🌎 Idiomas
+
+- Español: nativo.
+- Inglés: técnico, lectura de documentación y comprensión de conceptos de desarrollo.
+
+---
+
+## 📫 Contacto
+
+📧 [harflores.cl@gmail.com](mailto:harflores.cl@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/harflores)  
+💻 [GitHub](https://github.com/harflores)  
+🌐 [Portafolio personal](https://harflores.github.io/)
+
+> La tecnología genera valor cuando resuelve problemas reales.
+``` 
